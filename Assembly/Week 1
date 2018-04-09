@@ -1,1 +1,22 @@
 
+;mov eax, 13
+;add eax, 10
+
+;push ax 
+;mov ax, 0xa4
+;do something
+;pop ax
+
+;push bx
+;do stuff
+;push ax
+;do more stuff
+;pop ax
+;ax must be popped before 
+;pop bx
+
+;0x0e ;moves cursor
+;0x010
+;mov ah, 0x0e
+;mov al, 'X'
+;int 0x10
