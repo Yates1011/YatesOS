@@ -1,3 +1,0 @@
-# YatesOS
-# YatesOS
-# YatesOS
